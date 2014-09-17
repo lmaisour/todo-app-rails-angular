@@ -1,0 +1,1 @@
+TodoMvc::Application.config.secret_key_base = 'ce2b055465341cf255684daeb66d8ac1dee53d4d7deb96f1175c6d8de253734ecf9324635b4e45ebbd07c3cf8cc88245db6bc3cb6f0517cfa29f99ce7832472f'
